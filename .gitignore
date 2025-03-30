@@ -1,0 +1,6 @@
+**/target/*
+**/*.class
+**/*.txt
+**/*.generated
+**/*.bc
+**/*.jar
